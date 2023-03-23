@@ -1,3 +1,6 @@
+CURRENTLY IN JS
+WILL CONVERT TO TS LATER
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
