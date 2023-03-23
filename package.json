@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "tailwindcss-bg-patterns": "^0.2.0"
   }
 }

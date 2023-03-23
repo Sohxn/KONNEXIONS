@@ -4,9 +4,13 @@ module.exports = {
   theme: {
     extend: {
        fontFamily:{
-        playfair: ["Playfair Display" , "sans-serif"] 
-      }
+        playfair: ["Playfair Display" , "sans-serif"] ,
+        oswald: ["Oswald" , "sans-serif"],
+        roboto: ["Roboto Mono" , 'monospace']
+       }
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-bg-patterns'),
+  ],
 }
