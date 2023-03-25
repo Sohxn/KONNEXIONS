@@ -6,7 +6,7 @@ import member from '../img/member.png'
 
 const card = () => {
   return (
-    <div className='backdrop-blur-sm bg-white/30 h-[55vh] w-[20vw] rounded-lg'>
+    <div className='backdrop-blur-sm bg-white/30 h-[60vh] w-[20vw] rounded-lg'>
       <div className='py-3'>
        <img src={member} alt='...' className='rounded-full border-gray-100 shadow-sm mx-[1vw] max-h-[15vh]'/>
       </div>
