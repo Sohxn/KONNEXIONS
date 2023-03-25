@@ -7,8 +7,8 @@ import member from '../img/member.png'
 const card = () => {
   return (
     <div className='backdrop-blur-sm bg-white/30 h-[50vh] w-[20vw] rounded-lg'>
-      <div>
-       <img src={member} alt='...' className='rounded-full mx-[1vw] max-h-[30vh]'/>
+      <div className='py-3'>
+       <img src={member} alt='...' className='rounded-full border-gray-100 shadow-sm mx-[1vw] max-h-[15vh]'/>
       </div>
       <div>
         <p className='font-roboto text-left mx-[1vw] my-[1vw]'>
