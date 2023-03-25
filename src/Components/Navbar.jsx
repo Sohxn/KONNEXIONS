@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className='font-serif h-[10vh] w-full grid-cols-2'>
       <div className='w-[30vw] h-full bg-black'>
-          <h className='font-oswald text-white'>nav just for reference</h>
+          <h className='font-oswald text-whitecl'>nav just for reference</h>
       </div>
     </div>
   )
